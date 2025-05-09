@@ -1,6 +1,6 @@
 {
     "name": "cadetdmb/async",
-    "version": "1.0.0",
+    "version": "v1.0.0",
     "description": "Provide an easy way to run code asynchronously for Laravel",
     "keywords": [
         "cadetdmb",
