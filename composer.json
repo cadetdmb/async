@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "description": "Provide an easy way to run code asynchronously for Laravel",
     "keywords": [
-        "vxm",
-        "laravel-async"
+        "cadetdmb",
+        "async"
     ],
     "homepage": "https://github.com/vuongxuongminh/laravel-async",
     "license": "MIT",
