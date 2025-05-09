@@ -1,5 +1,5 @@
 {
-    "name": "vxm/laravel-async",
+    "name": "cadetdmb/async",
     "description": "Provide an easy way to run code asynchronously for Laravel",
     "keywords": [
         "vxm",
